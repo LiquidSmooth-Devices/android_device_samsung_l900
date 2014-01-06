@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_l900.mk
+    $(LOCAL_DIR)/liquid.mk
