@@ -1,26 +1,38 @@
 [
     {
-        "repository": "android_device_samsung_smdk4412-common",
-        "target_path": "device/samsung/smdk4412-common"
+        "remote": "gh",
+        "repository": "CyanogenMod/android_device_samsung_smdk4412-common",
+        "target_path": "device/samsung/smdk4412-common",
+        "revision": "cm-11.0"
     },
     {
-        "repository": "android_device_samsung_smdk4412-qcom-common",
-        "target_path": "device/samsung/smdk4412-qcom-common"
+        "remote": "gh",
+        "repository": "CyanogenMod/android_device_samsung_smdk4412-qcom-common",
+        "target_path": "device/samsung/smdk4412-qcom-common",
+        "revision": "cm-11.0"
     },
     {
-        "repository": "android_device_samsung_t0lte",
-        "target_path": "device/samsung/t0lte"
+        "remote": "gh",
+        "repository": "CyanogenMod/android_kernel_samsung_smdk4412",
+        "target_path": "kernel/samsung/smdk4412",
+        "revision": "cm-11.0"
     },
     {
-        "repository": "android_kernel_samsung_smdk4412",
-        "target_path": "kernel/samsung/smdk4412"
+        "remote": "gh",
+        "repository": "CyanogenMod/android_hardware_samsung",
+        "target_path": "hardware/samsung",
+        "revision": "cm-11.0"
     },
     {
-        "repository": "android_packages_apps_SamsungServiceMode",
-        "target_path": "packages/apps/SamsungServiceMode"
+	    "remote": "gh",
+        "repository": "LiquidSmooth/android_device_samsung_t0lte",
+        "target_path": "device/samsung/t0lte",
+		"revision": "kitkat"
     },
     {
-        "repository": "android_hardware_samsung",
-        "target_path": "hardware/samsung"
+	    "remote": "gh",
+        "repository": "CyanogenMod/android_packages_apps_SamsungServiceMode",
+        "target_path": "packages/apps/SamsungServiceMode",
+		"revision": "cm-11.0"
     }
 ]
