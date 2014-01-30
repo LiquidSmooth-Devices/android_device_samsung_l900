@@ -1,5 +1,4 @@
 
-
 # Copyright (C) 2012 The CyanogenMod Project
 # Copyright (C) 2013 The LiquidSmooth Project
 #
@@ -25,9 +24,6 @@ TARGET_SCREEN_WIDTH := 720
 
 # device
 $(call inherit-product, device/samsung/l900/full_l900.mk)
-
-# telephony
-$(call inherit-product, vendor/liquid/config/common_cdma.mk)
 
 # phone
 $(call inherit-product, vendor/liquid/config/common_phone.mk)
