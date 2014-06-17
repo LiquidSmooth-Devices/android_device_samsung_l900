@@ -18,10 +18,6 @@
 # Release name
 PRODUCT_RELEASE_NAME := l900
 
-# boot
-TARGET_SCREEN_HEIGHT := 1280
-TARGET_SCREEN_WIDTH := 720
-
 # device
 $(call inherit-product, device/samsung/l900/full_l900.mk)
 
