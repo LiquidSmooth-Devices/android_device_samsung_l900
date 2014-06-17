@@ -24,7 +24,7 @@
         "revision": "cm-11.0"
     },
     {
-	"remote": "ls",
+	"remote": "lsd",
         "repository": "android_device_samsung_t0lte",
         "target_path": "device/samsung/t0lte",
         "revision": "kitkat"
