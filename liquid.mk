@@ -38,5 +38,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=t0ltespr \
     TARGET_BUILD_TYPE=user \
     BUILD_VERSION_TAGS=release-keys \
-    PRIVATE_BUILD_DESC="t0ltespr-user 4.3 JSS15J L900VPUBMK4 release-keys" \
-    BUILD_FINGERPRINT="samsung/t0ltespr/t0ltespr:4.3/JSS15J/L900VPUBMK4:user/release-keys"
+    PRIVATE_BUILD_DESC="t0ltespr-user 4.4.2 KOT49H L900VPUCNE2 release-keys" \
+    BUILD_FINGERPRINT="samsung/t0ltespr/t0ltespr:4.4.2/KOT49H/L900VPUCNE2:user/release-keys"
